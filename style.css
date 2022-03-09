@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(117, 13, 143);
+    color: rgb(221, 157, 196);
+    font-family: Helvetica;
+    font-size: 14px;
+}
+.reverse {
+    background-color: black !important;
+    color: rgb(89, 231, 250);
+}
+p {
+    padding: 50px;
+    }
